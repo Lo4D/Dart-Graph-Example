@@ -1,7 +1,7 @@
 name: dart_graph_example
 description: A simple example of dart airport optimal route search using graph
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Lo4D/Dart-Graph-Example
 
 environment:
   sdk: ^3.3.4
