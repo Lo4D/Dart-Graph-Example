@@ -18,12 +18,7 @@ dart run bin/dart_graph_example.dart PHX LOS
 
 Expected output:
 ```bash
-❯ dart run bin/dart_graph_example.dart PHX LOS
-
 Calculating the optimal route from "PHX" to "LOS"
-
-You can get to "LOS" from "JFK"
-You can get to "JFK" from "PHX"
 
 ++++++++++++++++++++++++++++++++++++++++++
 The optimal route is PHX - JFK - LOS
